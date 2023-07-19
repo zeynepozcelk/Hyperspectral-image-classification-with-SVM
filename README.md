@@ -11,10 +11,10 @@ To run this project, follow the steps below:
 1. Clone the project files from this GitHub repository to your computer.
 2. Use the following commands to install the required Python libraries:
 
-pip install numpy
-pip install scikit-learn
-pip install matplotlib
-pip install spectral
+- pip install numpy
+- pip install scikit-learn
+- pip install matplotlib
+- pip install spectral
 
 1. Open the "main.ipynb" Colab notebook file in Google Colab or Jupyter Notebook.
 2. Follow the instructions and explanations within the notebook to execute the project code.
